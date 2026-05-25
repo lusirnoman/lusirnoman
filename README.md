@@ -150,21 +150,6 @@
   <img src="https://img.shields.io/badge/TanStack_Router-1A202C?style=flat-square&logo=react-router&logoColor=white" />
 </p>
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lusirnoman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lusirnoman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lusirnoman&theme=radical&no-frame=true&no-bg=true&row=2&column=4" />
-</p>
-
----
-
 ## 📌 Current Focus
 
 > Building fully automated cryo-EM processing pipelines, exploring AI-driven approaches to protein-ligand interaction prediction, and evolving a resilient homelab infrastructure. Always at the intersection of **computational biology** and **systems engineering**.
